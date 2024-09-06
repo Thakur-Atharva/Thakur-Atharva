@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atharva Thakur
 - 👀 I’m interested in applications of AI technology
 - 🌱 I’m currently studying Computer Science at Purdue
-- 💞️ I’m looking to collaborate on projects involving Automation and/or Machine Learning
+- 💞️ I’m looking to collaborate on projects involving Finance and/or Machine Learning
 - 📫 How to reach me: https://www.linkedin.com/in/atharva-thakur
 
 <!---
